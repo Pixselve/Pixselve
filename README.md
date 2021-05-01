@@ -2,10 +2,7 @@
 
 <h3 align=center>My setup 🖥</h2>
 <p align=center>
-  <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-32GB-000000?style=for-the-badge&logo=corsair&logoColor=white" />
-  <img src="https://img.shields.io/badge/INTEL-i5--8400-0071c5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple-Mac%20mini%20M1-white?style=for-the-badge&logo=apple" />
 </p>
 
 <h3 align=center>Languages 🖇</h2>
