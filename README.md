@@ -1,4 +1,6 @@
-<h1 align=center>Hi there 👋</h1>
+# Hi there 👋
+
+## 📚 Find all my school projects here: [github.com/pixselve-school](https://github.com/pixselve-school)
 
 <p align="center">
   <a href="https://github.com/pixselve">
